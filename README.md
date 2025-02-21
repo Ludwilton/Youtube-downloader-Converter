@@ -1,5 +1,7 @@
 # Youtube-downloader-Converter
-Simple terminal program that replaces websites like y2mate etc. by downloading either mp3/mp4 directly to a specified output directory.
+Simple terminal program that replaces websites like y2mate etc, by downloading either mp3/mp4 directly to a specified output directory.
 
-Simple youtube downloader for mp4 & mp3 formats
-This program was made as a part of my python studies and is not complete nor made for an end user
+
+This program was made as a part of my python studies and is not complete nor made for an end user, 
+
+this just worked well enough for what i wanted it to do for personal use! :)
